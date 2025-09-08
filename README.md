@@ -1,11 +1,20 @@
-# React + Vite
+
 
 # Login Page
 
 React + Vite + TailwindCSS ile geliştirilmiş basit bir login sayfası.  
 
 # GIF
-![ezgif-437a5f0219dd8 mov-poster](https://github.com/user-attachments/assets/0ca58c19-3d17-4fec-973c-b11d078cef0f)
+[Uploading Screen Rec<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>https://s1.ezgif.com/tmp/ezgif-1cbf9aac0513f1.gif</string>
+</dict>
+</plist>
+ording 2025-09-08 at 12.23.09.mov [video-to-gif output image].webloc…]()
+
 
 ## Kurulum
 ```bash
